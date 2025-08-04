@@ -55,7 +55,7 @@ The app allows users to upload an image and get instant classification:
 
 ### 🐶 Dog Prediction
 
-![Dog Prediction](https://github.com/M-MAHAD1/Cat-Dog-Classifier/blob/main/images/dog_prediction.jpg)
+![Dog Prediction](https://github.com/M-MAHAD1/Cat-_VS_Dog_Image_Classifier_CNN_Model/blob/main/dogpred.PNG)
 
 (📌 Make sure to include the above images in your GitHub repo in an `images` folder.)
 
