@@ -71,4 +71,4 @@ The app allows users to upload an image and get instant classification:
 Developed by **Muhammad Mahad**
 
 📧 Email: muhammadmahad.cs@gmail.com  
-🔗 LinkedIn: [https://www.linkedin.com/in/muhammadmahad.cs](https://www.linkedin.com/in/muhammadmahad.cs)
+🔗 LinkedIn: [https://www.linkedin.com/in/muhammadmahad.cs](https://www.linkedin.com/in/muhammadmahad-cs)
